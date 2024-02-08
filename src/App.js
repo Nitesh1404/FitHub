@@ -1,10 +1,14 @@
 import './App.css';
+import Navbar from './components/Navbar';
+import Foods from './nutritionPage/Foods';
 
 function App() {
   return (
-    <div className="App">
-      <h1>This is my Fitness webiste</h1>
-    </div>
+    <>
+      <Navbar />
+      {/* <Slider /> */}
+      <Foods />
+    </>
   );
 }
 
