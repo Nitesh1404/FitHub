@@ -1,7 +1,15 @@
 .food-body {
-	height: 70vh;
+    height: 50vh;
 }
 
 .rounded {
-	border-radius: 50px;
+    border-radius: 50px;
+}
+
+.card-img {
+    height: 90vh;
+}
+
+.fsize {
+    font-size: 3rem;
 }
