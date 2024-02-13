@@ -602,7 +602,8 @@
 				"carbohydrates": 14,
 				"protein": 9,
 				"fiber": 10
-			}
+			},
+			"image": "https://images.pexels.com/photos/4753638/pexels-photo-4753638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Brazil Nuts",
@@ -612,7 +613,8 @@
 				"carbohydrates": 12,
 				"protein": 14,
 				"fiber": 8
-			}
+			},
+			"image": "https://nutexplorer.in/wp-content/uploads/2021/07/brazil_nuts.jpg"
 		},
 		{
 			"name": "Cashews",
@@ -622,7 +624,8 @@
 				"carbohydrates": 30,
 				"protein": 18,
 				"fiber": 3.3
-			}
+			},
+			"image": "https://static.toiimg.com/thumb/102943275.cms?width=680&height=512&imgsize=115440"
 		},
 		{
 			"name": "Hazelnuts",
@@ -632,7 +635,8 @@
 				"carbohydrates": 17,
 				"protein": 15,
 				"fiber": 9.7
-			}
+			},
+			"image": "https://images.pexels.com/photos/68483/hazelnuts-brown-nuts-open-68483.jpeg"
 		},
 		{
 			"name": "Walnuts",
@@ -642,7 +646,8 @@
 				"carbohydrates": 14,
 				"protein": 15,
 				"fiber": 6.7
-			}
+			},
+			"image": "https://images.pexels.com/photos/3640631/pexels-photo-3640631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Dates",
@@ -652,7 +657,8 @@
 				"carbohydrates": 75,
 				"protein": 2.5,
 				"fiber": 8
-			}
+			},
+			"image": "https://images.pexels.com/photos/3993529/pexels-photo-3993529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Figs",
@@ -662,7 +668,8 @@
 				"carbohydrates": 19,
 				"protein": 0.8,
 				"fiber": 2.9
-			}
+			},
+			"image": "https://images.pexels.com/photos/33791/fig-sliced-plate-wooden-table.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Prunes",
@@ -672,7 +679,8 @@
 				"carbohydrates": 64,
 				"protein": 2.2,
 				"fiber": 7.1
-			}
+			},
+			"image": "https://images.pexels.com/photos/12945019/pexels-photo-12945019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Apricots",
@@ -682,7 +690,8 @@
 				"carbohydrates": 12,
 				"protein": 1.4,
 				"fiber": 2.4
-			}
+			},
+			"image": "https://images.pexels.com/photos/1268122/pexels-photo-1268122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Blueberries",
@@ -692,7 +701,8 @@
 				"carbohydrates": 14,
 				"protein": 0.7,
 				"fiber": 2.4
-			}
+			},
+			"image": "https://images.pexels.com/photos/70862/pexels-photo-70862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Blackberries",
@@ -702,7 +712,8 @@
 				"carbohydrates": 10,
 				"protein": 1.4,
 				"fiber": 5.3
-			}
+			},
+			"image": "https://images.pexels.com/photos/892808/pexels-photo-892808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Acai Berries",
@@ -712,7 +723,8 @@
 				"carbohydrates": 2,
 				"protein": 1,
 				"fiber": 2
-			}
+			},
+			"image": "https://specialtyproduce.com/sppics/8784.png"
 		},
 		{
 			"name": "Goji Berries",
@@ -722,7 +734,8 @@
 				"carbohydrates": 77,
 				"protein": 14,
 				"fiber": 13
-			}
+			},
+			"image": "https://static.toiimg.com/thumb/69641920.cms?width=680&height=512&imgsize=944171"
 		},
 		{
 			"name": "Cranberries",
@@ -732,7 +745,8 @@
 				"carbohydrates": 12,
 				"protein": 0.4,
 				"fiber": 4.6
-			}
+			},
+			"image": "https://images.pexels.com/photos/306800/pexels-photo-306800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Peaches",
@@ -742,7 +756,8 @@
 				"carbohydrates": 10,
 				"protein": 0.9,
 				"fiber": 1.5
-			}
+			},
+			"image": "https://www.pittmandavis.com/images/xl/PD23-GAPeaches.webp?v=1"
 		},
 		{
 			"name": "Pears",
@@ -752,7 +767,8 @@
 				"carbohydrates": 15,
 				"protein": 0.4,
 				"fiber": 3.1
-			}
+			},
+			"image": "https://images.pexels.com/photos/175767/pexels-photo-175767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Kiwi",
@@ -762,7 +778,8 @@
 				"carbohydrates": 15,
 				"protein": 1.1,
 				"fiber": 3
-			}
+			},
+			"image": "https://images.pexels.com/photos/867349/pexels-photo-867349.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Plums",
@@ -772,7 +789,8 @@
 				"carbohydrates": 12,
 				"protein": 0.7,
 				"fiber": 1.4
-			}
+			},
+			"image": "https://skinkraft.com/cdn/shop/articles/Evidence-Based_0eff67fd-86c2-400a-b4a1-7fe2d9a14db5_1024x400.jpg?v=1639470268"
 		},
 		{
 			"name": "Papaya",
@@ -782,7 +800,8 @@
 				"carbohydrates": 11,
 				"protein": 0.5,
 				"fiber": 1.7
-			}
+			},
+			"image": "https://images.pexels.com/photos/5945731/pexels-photo-5945731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Guava",
@@ -792,7 +811,8 @@
 				"carbohydrates": 14,
 				"protein": 2.6,
 				"fiber": 5.4
-			}
+			},
+			"image": "https://images.pexels.com/photos/5945796/pexels-photo-5945796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Dragon Fruit",
@@ -802,7 +822,8 @@
 				"carbohydrates": 14,
 				"protein": 1.2,
 				"fiber": 1.9
-			}
+			},
+			"image": "https://images.pexels.com/photos/162926/dragon-fruit-passion-fruit-southern-countries-exotic-162926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Mango",
@@ -812,7 +833,8 @@
 				"carbohydrates": 15,
 				"protein": 0.8,
 				"fiber": 1.6
-			}
+			},
+			"image": "https://images.pexels.com/photos/39303/mango-tropical-fruit-juicy-sweet-39303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Raisins",
@@ -822,7 +844,8 @@
 				"carbohydrates": 79,
 				"protein": 3.1,
 				"fiber": 3.7
-			}
+			},
+			"image": "https://media.istockphoto.com/id/813963034/photo/raisin-in-white-bowl.jpg?s=2048x2048&w=is&k=20&c=Mwb8s0XNzm8Evbr697rkuQK5LSOsAyX_642o8IksmlI="
 		},
 		{
 			"name": "Pistachios",
@@ -832,17 +855,8 @@
 				"carbohydrates": 28,
 				"protein": 21,
 				"fiber": 10
-			}
-		},
-		{
-			"name": "Peanut Butter",
-			"nutrition": {
-				"calories": 188,
-				"fat": 16,
-				"carbohydrates": 6,
-				"protein": 8,
-				"fiber": 2
-			}
+			},
+			"image": "https://images.pexels.com/photos/52521/pistachio-nuts-pistachios-crisps-52521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Eggplant",
@@ -852,7 +866,8 @@
 				"carbohydrates": 6,
 				"protein": 1,
 				"fiber": 3
-			}
+			},
+			"image": "https://images.pexels.com/photos/2694393/pexels-photo-2694393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Asparagus",
@@ -862,7 +877,8 @@
 				"carbohydrates": 4,
 				"protein": 2.2,
 				"fiber": 2.1
-			}
+			},
+			"image": "https://images.pexels.com/photos/351679/pexels-photo-351679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Zucchini",
@@ -872,7 +888,8 @@
 				"carbohydrates": 3,
 				"protein": 1.2,
 				"fiber": 1
-			}
+			},
+			"image": "https://images.pexels.com/photos/3375263/pexels-photo-3375263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Artichoke",
@@ -882,7 +899,8 @@
 				"carbohydrates": 11,
 				"protein": 3.3,
 				"fiber": 5.4
-			}
+			},
+			"image": "https://images.pexels.com/photos/5273463/pexels-photo-5273463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Cabbage",
@@ -892,17 +910,8 @@
 				"carbohydrates": 6,
 				"protein": 1.3,
 				"fiber": 2.5
-			}
-		},
-		{
-			"name": "Cauliflower",
-			"nutrition": {
-				"calories": 25,
-				"fat": 0.3,
-				"carbohydrates": 5,
-				"protein": 2,
-				"fiber": 3
-			}
+			},
+			"image": "https://images.pexels.com/photos/2518893/pexels-photo-2518893.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Beets",
@@ -912,7 +921,8 @@
 				"carbohydrates": 10,
 				"protein": 1.6,
 				"fiber": 2.8
-			}
+			},
+			"image": "https://images.pexels.com/photos/5502850/pexels-photo-5502850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Brussels Sprouts",
@@ -922,7 +932,8 @@
 				"carbohydrates": 9,
 				"protein": 3.4,
 				"fiber": 3.8
-			}
+			},
+			"image": "https://images.pexels.com/photos/41171/brussels-sprouts-sprouts-cabbage-grocery-41171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Soy Sauce",
@@ -932,7 +943,8 @@
 				"carbohydrates": 3.3,
 				"protein": 6,
 				"fiber": 0.6
-			}
+			},
+			"image": "https://images.pexels.com/photos/1385185/pexels-photo-1385185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Almond Milk",
@@ -942,7 +954,8 @@
 				"carbohydrates": 0.5,
 				"protein": 0.5,
 				"fiber": 0
-			}
+			},
+			"image": "https://media.product.which.co.uk/prod/images/900_450/gm-3ab65726-3534-4c12-aee8-0b720abf9107-almond-milk.jpeg"
 		},
 		{
 			"name": "Honey",
@@ -952,7 +965,8 @@
 				"carbohydrates": 82,
 				"protein": 0.3,
 				"fiber": 0.2
-			}
+			},
+			"image": "https://images.pexels.com/photos/33260/honey-sweet-syrup-organic.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 		},
 		{
 			"name": "Maple Syrup",
@@ -962,7 +976,8 @@
 				"carbohydrates": 67,
 				"protein": 0,
 				"fiber": 0
-			}
+			},
+			"image": "https://www.allrecipes.com/thmb/gUEGZeKigSEdyVWAbbXb2BSWydo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/152002_homemademaplesyrup_ddmfs_3x4_2639-3d749bab68994949abef4882cecdeafd.jpg"
 		}
 	]
 }
