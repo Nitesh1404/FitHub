@@ -1,0 +1,49 @@
+Teenager,low,no,yes
+Young adult,medium,yes,no
+Middle age,high,no,yes
+Senior citizen,low,yes,no
+Teenager,low,no,no
+Teenager,medium,no,yes
+Teenager,medium,yes,no
+Teenager,high,no,yes
+Teenager,low,yes,no
+Teenager,low,yes,yes
+Teenager,medium,no,no
+Teenager,medium,yes,yes
+Teenager,high,no,no
+Teenager,high,no ,yes
+Teenager,high,yes,no
+Teenager,high,yes,yes
+Young adult,low,yes,no
+Young adult,low,no,yes
+Young adult,low,yes,yes
+Young adult,low,no,no
+Young adult,medium,no,yes
+Young adult,medium,no,no
+Young adult,medium,yes,yes
+Young adult,high,yes,yes
+Young adult,high,yes,no
+Young adult,high,no,yes
+Young adult,high,no,no
+Middle age,low,no,no
+Middle age,low,yes,no
+Middle age,low,yes,no
+Middle age,low,yes,yes
+Middle age,medium,no,no
+Middle age,medium,yes,no
+Middle age,medium,no,yes
+Middle age,medium,yes,yes
+Middle age,high,yes,yes
+Middle age,high,yes,no
+Middle age,high,no,no
+Senior citizen,low,no,mo
+Senior citizen,low,no,yes
+Senior citizen,low,yes,yes
+Senior citizen,medium,yes,yes
+Senior citizen,medium,yes,no
+Senior citizen,medium,no,yes
+Senior citizen,medium,no,no
+Senior citizen,high,yes,yes
+Senior citizen,high,yes,no
+Senior citizen,high,no,yes
+Senior citizen,high,yes,yes
